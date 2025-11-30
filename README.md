@@ -11,7 +11,7 @@
     background-clip: text;
     margin-bottom: 0.5rem;
     text-shadow: 0 10px 30px rgba(0,0,0,0.1);
-  ">✨ Hello, I'm Vaibhaw ✨</h1>
+  ">✨ Hello, I am Vaibhaw ✨</h1>
 </div>
 
 <div style="animation: fadeInUp 1.2s ease-out;">
@@ -24,7 +24,7 @@
     margin-bottom: 2rem;
     font-weight: 600;
     letter-spacing: 0.5px;
-  ">🌐 Full-Stack Web Developer | 🚀 Building the Future | 💡 Coding by Day, Innovating by Night</h3>
+  ">🌐 WebSite Developer | 🚀 Building the Future | 💡 Coding by Day, Innovating by Night</h3>
 </div>
 
 <!-- Animated Social Links -->
@@ -173,13 +173,6 @@
       cursor: pointer;
     " onmouseover="this.style.transform='scale(1.1) rotateY(10deg)'; this.style.filter='drop-shadow(0 8px 20px rgba(71, 162, 72, 0.4))';" onmouseout="this.style.transform='scale(1) rotateY(0deg)'; this.style.filter='drop-shadow(0 0 0)';" />
   </div>
-  <div style="text-align: center; animation: fadeInUp 3.6s ease-out;">
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" style="
-      border-radius: 10px;
-      transition: all 0.3s ease;
-      cursor: pointer;
-    " onmouseover="this.style.transform='scale(1.1) rotateY(10deg)'; this.style.filter='drop-shadow(0 8px 20px rgba(255, 45, 32, 0.4))';" onmouseout="this.style.transform='scale(1) rotateY(0deg)'; this.style.filter='drop-shadow(0 0 0)';" />
-  </div>
   <div style="text-align: center; animation: fadeInUp 3.7s ease-out;">
     <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" style="
       border-radius: 10px;
@@ -272,17 +265,6 @@
   gap: 20px;
   margin: 2rem 0;
 ">
-  <div style="
-    background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(118, 75, 162, 0.1) 100%);
-    border: 2px solid #667eea;
-    padding: 1.5rem;
-    border-radius: 15px;
-    transition: all 0.3s ease;
-    animation: fadeInUp 4.2s ease-out;
-  " onmouseover="this.style.transform='translateY(-8px)'; this.style.borderColor='#764ba2';" onmouseout="this.style.transform='translateY(0)'; this.style.borderColor='#667eea';">
-    <h4 style="font-size: 1.3em; margin-bottom: 1rem; color: #667eea;">🎨 Web Design</h4>
-    <p style="line-height: 1.6; color: #555;">Creating stunning, modern, and responsive websites with beautiful UI/UX designs that captivate users.</p>
-  </div>
 
   <div style="
     background: linear-gradient(135deg, rgba(240, 147, 251, 0.1) 0%, rgba(245, 87, 108, 0.1) 100%);
