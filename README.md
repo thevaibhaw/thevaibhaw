@@ -74,13 +74,13 @@
 
   <div style="display: grid; gap: 1rem;">
     <p style="font-size: 1.05em; animation: fadeInUp 1.8s ease-out;">
-      <strong>🛠️ Tech Stack:</strong> HTML5 • CSS3 • JavaScript • jQuery • Bootstrap • PHP • MySQL • MongoDB • Laravel • WordPress • Node.js
+      <strong>🛠️ Tech Stack:</strong> HTML5 • CSS3 • JavaScript • jQuery • Bootstrap • PHP • MySQL • MongoDB • BigCommerce • WordPress • Node.js
     </p>
     <p style="font-size: 1.05em; animation: fadeInUp 2s ease-out;">
       <strong>🌱 Currently Learning:</strong> Advanced JavaScript frameworks, Modern Backend Solutions & Cloud Technologies
     </p>
     <p style="font-size: 1.05em; animation: fadeInUp 2.2s ease-out;">
-      <strong>👥 Open for Collaboration:</strong> WordPress • React • Vue.js • Full-Stack Projects
+      <strong>👥 Open for Collaboration:</strong> WordPress • React • BigCommerce • PHP Projects
     </p>
     <p style="font-size: 1.05em; animation: fadeInUp 2.4s ease-out;">
       <strong>🏢 Currently at:</strong> <span style="color: #667eea; font-weight: 700;">Tech Prastish Software Solution Pvt Ltd</span>
@@ -259,60 +259,6 @@
       transition: all 0.3s ease;
       cursor: pointer;
     " onmouseover="this.style.transform='scale(1.1) rotateY(10deg)'; this.style.filter='drop-shadow(0 8px 20px rgba(24, 23, 23, 0.4))';" onmouseout="this.style.transform='scale(1) rotateY(0deg)'; this.style.filter='drop-shadow(0 0 0)';" />
-  </div>
-</div>
-
----
-
-## 📊 Professional Highlights
-
-<div style="
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 20px;
-  margin: 2rem 0;
-  animation: fadeInUp 4s ease-out;
-">
-  <div style="
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    padding: 2rem;
-    border-radius: 15px;
-    color: white;
-    text-align: center;
-    box-shadow: 0 8px 25px rgba(102, 126, 234, 0.2);
-    transition: all 0.3s ease;
-    cursor: pointer;
-  " onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 15px 40px rgba(102, 126, 234, 0.4)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 8px 25px rgba(102, 126, 234, 0.2)';">
-    <h3 style="font-size: 2.5em; margin-bottom: 0.5rem;">50+</h3>
-    <p style="font-size: 1.1em; font-weight: 600;">Projects Completed</p>
-  </div>
-  
-  <div style="
-    background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
-    padding: 2rem;
-    border-radius: 15px;
-    color: white;
-    text-align: center;
-    box-shadow: 0 8px 25px rgba(245, 87, 108, 0.2);
-    transition: all 0.3s ease;
-    cursor: pointer;
-  " onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 15px 40px rgba(245, 87, 108, 0.4)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 8px 25px rgba(245, 87, 108, 0.2)';">
-    <h3 style="font-size: 2.5em; margin-bottom: 0.5rem;">5+</h3>
-    <p style="font-size: 1.1em; font-weight: 600;">Years Experience</p>
-  </div>
-  
-  <div style="
-    background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
-    padding: 2rem;
-    border-radius: 15px;
-    color: white;
-    text-align: center;
-    box-shadow: 0 8px 25px rgba(79, 172, 254, 0.2);
-    transition: all 0.3s ease;
-    cursor: pointer;
-  " onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 15px 40px rgba(79, 172, 254, 0.4)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 8px 25px rgba(79, 172, 254, 0.2)';">
-    <h3 style="font-size: 2.5em; margin-bottom: 0.5rem;">15+</h3>
-    <p style="font-size: 1.1em; font-weight: 600;">Happy Clients</p>
   </div>
 </div>
 
