@@ -1,4 +1,4 @@
-# Hi, I am Vaibhaw Kumar Parashar 👋
+# Hi, I am Vaibhaw 👋
 
 Website Developer with hands-on experience in building fast, reliable, and user-friendly websites and web applications.  
 I mainly work with WordPress, PHP, JavaScript, and modern frontend tools, focusing on clean code, performance, and real business needs.
