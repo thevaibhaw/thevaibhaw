@@ -65,7 +65,7 @@ I enjoy turning ideas into working products and solving real production issues.
 
 ### AI
 - ChatGPT, DeepSeek, Grok and Gemini
-- Copiot, Cursor, Windsurf, Bolt, Lovable, FireBase, AntiGravity
+- Copilot, Cursor, Windsurf, Bolt, Lovable, FireBase, AntiGravity
 
 ---
 
