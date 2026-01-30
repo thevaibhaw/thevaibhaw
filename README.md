@@ -8,24 +8,31 @@
 [![GitHub TheVaibhaw](https://img.shields.io/github/followers/thevaibhaw?label=follow&style=social)](https://github.com/TheVaibhaw)
 
 
-### <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGhxbndhaHZxbmk0OW1iMWE4ejQwNnpwN2J0MjBlNWh5dTZ5bHM3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m745dTCAxerHa/giphy.gif" width="50"> A little more about me...  
+### A little more about me...  
 
 ```javascript
 const vaibhaw = {
   pronouns: "he" | "him",
-  code: [JavaScript, Typescript, HTML, CSS, PHP, MySQL],
-  tools: [React, "Next.js", Node, WordPress, WooCommerce, BigCommerce, Elementor],
+  frontend: [HTML, CSS, Bootstrap, JavaScript, jQuery],
+  backend: [Node.js, PHP],
+  database: [Mongodb, MySQL],
+  cms: [Bigcommerce, WordPress, WooCommerce, RubberDuck],
+  devops: [Git, Github],
+  tools: [Postman, Docker],
+  payment-gateway-integration: [Binance Pay, Stripe],
+  operating systems: [Windows, Linux],
+  ai: ["Chat GPT", Gemini, DeepSeek, Claude, Qwen3-Max, Grok, Perplexity, Copilot],
   architecture: ["e-commerce solutions", "custom themes", "plugin development"],
   currentFocus: {
                     company: "Tech Prastish Software Solution Pvt. Ltd.",
                     role: "Web Developer",
                     since: "2022"
                   },
-  expertise: ["WordPress", "WooCommerce", "BigCommerce", "React", "Node.js"],
-  challenge: "Building scalable web applications and high-performance e-commerce solutions"
+  expertise: [WordPress, WooCommerce, BigCommerce, JavaScript, "Node.js"],
+  Challenge: "Building scalable web applications and high-performance e-commerce solutions."
 }
 ```
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVndHhteDB3bmtvM2RyM2dzY2I2dzJsdXU3bGgxcWk4NXc5MDlpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k5vZwRFZR5aZeniqb/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVndHhteDB3bmtvM2RyM2dzY2I2dzJsdXU3bGgxcWk4NXc5MDlpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k5vZwRFZR5aZeniqb/giphy.gif" width="60"> <em><b>Passionate about turning ideas into reality through code!</b> Whether you need an <b>e-commerce solution, custom WordPress development, or just want to collaborate</b> — let's connect and build something amazing together! 🚀</em>
 
 ---
